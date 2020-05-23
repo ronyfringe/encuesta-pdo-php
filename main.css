@@ -1,0 +1,35 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	background: #036;
+}
+
+form{
+	background-color: #a0294c;
+	margin: 0 auto;
+	width: 500px;
+	padding: 20px;
+	margin-top: 100px;
+	border-radius: 20px;
+
+}
+
+.opcion{
+	padding: 5px 0;
+}
+
+.barra{
+	background-color: rgb(152, 196, 236);
+	border-radius: 4px;
+	padding: 10px;
+}
+
+.seleccionado{
+	background-color: rgb(33, 90, 143);
+	border-radius: 4px;
+	color: white;
+	padding: 10px;
+}
+
+.button{
+	margin-top: 20px;
+}
